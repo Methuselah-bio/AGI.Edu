@@ -4,13 +4,13 @@ AGI.edu is an iOS educational app for children aged 3–5 that blends the adap
 
 ## Why another learning app?
 
-Researchers have shown that high‑quality educational apps for preschoolers are scarce.  Many “educational” titles lack clear learning outcomes and are cluttered with advertising【836522931887883†L312-L318】.  Effective apps for young children should:
+Researchers have shown that high‑quality educational apps for preschoolers are scarce.  Many “educational” titles lack clear learning outcomes and are cluttered with advertising.  Effective apps for young children should:
 
-- Be **developmentally appropriate** and child‑driven, using open‑ended activities to engage young learners【836522931887883†L304-L309】.
-- Provide a **highly visual interface** with minimal text to reduce cognitive load【836522931887883†L312-L317】.
-- Include **prosocial, non‑violent content**, celebrate diversity, and avoid manipulative monetization【836522931887883†L314-L317】.
-- Scaffold learning with clear feedback and adjust difficulty to meet each child at their level【412536993636793†L120-L129】.
-- Offer responsive controls and easy ways to exit activities so that children feel in control【928426571583315†L284-L288】.
+- Be **developmentally appropriate** and child‑driven, using open‑ended activities to engage young learners.
+- Provide a **highly visual interface** with minimal text to reduce cognitive load.
+- Include **prosocial, non‑violent content**, celebrate diversity, and avoid manipulative monetization.
+- Scaffold learning with clear feedback and adjust difficulty to meet each child at their level.
+- Offer responsive controls and easy ways to exit activities so that children feel in control.
 
 AGI.edu was designed with these principles in mind.  It avoids ads and in‑app purchases, uses simple tap interactions instead of text entry, and includes an adaptive engine that raises or lowers the difficulty depending on how the child is doing.
 
