@@ -28,14 +28,27 @@ struct DoctorPathView: View {
     }
 
     var body: some View {
+      // Wrap the content in a ZStack so we can place a soft watercolor
+    // background behind the game content.  The background image is
+    // provided in the Assets folder as `doctor_background`.
+    ZStack {
+        Image("doctor_background")
+            .resizable()
+            .scaledToFill()
+            .ignoresSafeArea()
+
         VStack {
-            Text("Doctor Path").font(.largeTitle).padding(.top)
+            Text("Doctor Path")
+                .font(.largeTitle)
+                .padding(.top)
             Spacer()
             currentGame()
             Spacer()
         }
         .padding()
-    }
+    } }
+  
+    
 
     /// Advances to the next game in the doctor path, looping back to the start
     /// when the end is reached.  This demonstrates how the adaptive engine
